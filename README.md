@@ -1,4 +1,4 @@
-# ytm
+# ytmwh
 A shell script to migrate youtube watch history from another account
 
 # Usage

@@ -23,7 +23,7 @@ if (-not $rest) {
     $rest = $defaultRest
 }
 
-$i = [int](Read-Host "Enter the starting value for i (default: $defaultI)")
+$i = [int](Read-Host "Enter the starting from line (default: $defaultI)")
 if (-not $i) {
     $i = $defaultI
 }elseif ($i -lt 0) {
